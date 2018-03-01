@@ -1,1 +1,2 @@
-#Cleanup Youtube filenames
+# Cleanup Youtube filenames
+don't run twice -
